@@ -1,5 +1,5 @@
 # Dog app - Codaisseur Group Project
-In week 4 of the Codaisseur bootcamp we worked in groups of 3 to make a app to let users test their knowledge of dog breeds.
+This is a an edu app which runs in the browser using Reac+Redux. The app was made by a team of 3 during the Codaisseur Bootcamp to let users test their knowledge of dogs in a fun way.
 
 # Table of Contents
 1. [Features](#features)
@@ -30,10 +30,3 @@ In week 4 of the Codaisseur bootcamp we worked in groups of 3 to make a app to l
 - Incremental and iterative development
 
 <a name="screen-captures"></a>
-## Screen captures
-### Listpage
-![List](docs/images/list.gif)
-### Game 1
-![Game 1](docs/images/game1.gif)
-### Game 2
-![Game 2](docs/images/game2.gif)
