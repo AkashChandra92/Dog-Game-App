@@ -1,6 +1,9 @@
 # Dog app - Codaisseur Group Project
 This is a an edu app which runs in the browser using Reac+Redux. The app was made by a team of 3 during the Codaisseur Bootcamp to let users test their knowledge of dogs in a fun way.
 
+## Setup
+Open the directory where the git clone is done.Once in the right directory, open the console and type npm install in the to download all the dependencies mentioned in the package.json file. Once installed, start the application by typing npm run start in the console.
+
 # Table of Contents
 1. [Features](#features)
 2. [Used techniques](#used-techniques)
@@ -9,12 +12,11 @@ This is a an edu app which runs in the browser using Reac+Redux. The app was mad
 
 <a name="features"></a>
 ## Features
+- The app has a list of dogs and a game shown on the navigation bar at the top, along with the home page link.
 - The app has a dog list page where it lists all the breeds, so the user can memorise the names of all the breeds.
 - When you click one of the breeds on the doglist page you should go to a page that shows 10 pictures of that breed. So the user can see what a breed looks like.
 - The app contains a game which shows the user a random picture of a dog and asks the user to choose the correct breed name from a list of 3 options.
-- The app contains a second game where the user will get a different question type. This game shows the user the name of a breed and 3 images of dogs. The user must select the correct image that matches the breed name.
-- The game starts off with only 3 breeds and should gradually increase in difficulty. When the user has a streak of 5 correct answers, the game will add another 3 breeds into the mix, and so on.
-- Score and difficulty is shared between the games. If you want to start over, you can reset the score and difficulty.
+- Based on the user's correct answers, the score,win percent and win streak is calculated and shown on the top right of the game page.
 
 <a name="used-techniques"></a>
 ## Used techniques
@@ -30,3 +32,6 @@ This is a an edu app which runs in the browser using Reac+Redux. The app was mad
 - Incremental and iterative development
 
 <a name="screen-captures"></a>
+## Screen captures
+### Homepage, Doglist and game
+![List](docs/images/dogApp.gif)
