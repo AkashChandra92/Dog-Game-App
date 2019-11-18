@@ -1,4 +1,4 @@
-# Dog app - Codaisseur Group Project
+# Dog-Game-app - Codaisseur Group Project
 This is a an edu app which runs in the browser using Reac+Redux. The app was made by a team of 3 during the Codaisseur Bootcamp to let users test their knowledge of dogs in a fun way.
 
 ## Setup
