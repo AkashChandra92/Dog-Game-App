@@ -1,5 +1,5 @@
 # Dog-Game-app - Codaisseur Group Project
-This is a an edu app which runs in the browser using Reac+Redux. The app was made by a team of 3 during the Codaisseur Bootcamp to let users test their knowledge of dogs in a fun way.
+This is a an educational app which runs in the browser using JS React+Redux. The app was made by a team of 3 during the Codaisseur Bootcamp to let users test their knowledge of dogs in a fun way.
 
 ## Setup
 Open the directory where the git clone is done.Once in the right directory, open the console and type npm install in the to download all the dependencies mentioned in the package.json file. Once installed, start the application by typing npm run start in the console.
