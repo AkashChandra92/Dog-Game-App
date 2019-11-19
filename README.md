@@ -34,7 +34,4 @@ Open the directory where the git clone is done.Once in the right directory, open
 <a name="screen-captures"></a>
 ## Screen captures
 ### Homepage, Doglist and game
-![List](docs/images/dogApp.gif)
-
-
 ![dogApp](https://user-images.githubusercontent.com/54192886/69139882-b7fd0600-0ac1-11ea-8d20-85be4b1fcd27.gif)
